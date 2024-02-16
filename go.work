@@ -1,0 +1,10 @@
+go 1.21
+
+use (
+	procinspect
+	gpltrans
+)
+
+replace (
+	procinspect v0.1.0 => ./procinspect
+)

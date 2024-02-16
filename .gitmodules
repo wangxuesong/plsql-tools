@@ -1,0 +1,6 @@
+[submodule "procinspect"]
+	path = procinspect
+	url = https://github.com/wangxuesong/procinspect.git
+[submodule "gpltrans"]
+	path = gpltrans
+	url = https://github.com/wangxuesong/gpltrans.git
